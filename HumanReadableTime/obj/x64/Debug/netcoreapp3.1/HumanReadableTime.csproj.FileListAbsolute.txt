@@ -1,0 +1,13 @@
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTime\bin\x64\Debug\netcoreapp3.1\HumanReadableTime.exe
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTime\bin\x64\Debug\netcoreapp3.1\HumanReadableTime.deps.json
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTime\bin\x64\Debug\netcoreapp3.1\HumanReadableTime.runtimeconfig.json
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTime\bin\x64\Debug\netcoreapp3.1\HumanReadableTime.runtimeconfig.dev.json
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTime\bin\x64\Debug\netcoreapp3.1\HumanReadableTime.dll
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTime\bin\x64\Debug\netcoreapp3.1\HumanReadableTime.pdb
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTime\obj\x64\Debug\netcoreapp3.1\HumanReadableTime.csprojAssemblyReference.cache
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTime\obj\x64\Debug\netcoreapp3.1\HumanReadableTime.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTime\obj\x64\Debug\netcoreapp3.1\HumanReadableTime.AssemblyInfo.cs
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTime\obj\x64\Debug\netcoreapp3.1\HumanReadableTime.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTime\obj\x64\Debug\netcoreapp3.1\HumanReadableTime.dll
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTime\obj\x64\Debug\netcoreapp3.1\HumanReadableTime.pdb
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTime\obj\x64\Debug\netcoreapp3.1\HumanReadableTime.genruntimeconfig.cache

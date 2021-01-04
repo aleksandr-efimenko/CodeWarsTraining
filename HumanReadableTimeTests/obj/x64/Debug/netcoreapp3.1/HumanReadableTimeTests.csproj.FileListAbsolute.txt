@@ -1,0 +1,13 @@
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTimeTests\bin\x64\Debug\netcoreapp3.1\HumanReadableTime.exe
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTimeTests\bin\x64\Debug\netcoreapp3.1\HumanReadableTimeTests.deps.json
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTimeTests\bin\x64\Debug\netcoreapp3.1\HumanReadableTimeTests.dll
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTimeTests\bin\x64\Debug\netcoreapp3.1\HumanReadableTimeTests.pdb
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTimeTests\bin\x64\Debug\netcoreapp3.1\HumanReadableTime.dll
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTimeTests\bin\x64\Debug\netcoreapp3.1\HumanReadableTime.pdb
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTimeTests\obj\x64\Debug\netcoreapp3.1\HumanReadableTimeTests.csprojAssemblyReference.cache
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTimeTests\obj\x64\Debug\netcoreapp3.1\HumanReadableTimeTests.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTimeTests\obj\x64\Debug\netcoreapp3.1\HumanReadableTimeTests.AssemblyInfo.cs
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTimeTests\obj\x64\Debug\netcoreapp3.1\HumanReadableTimeTests.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTimeTests\obj\x64\Debug\netcoreapp3.1\HumanReadableTimeTests.csproj.CopyComplete
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTimeTests\obj\x64\Debug\netcoreapp3.1\HumanReadableTimeTests.dll
+C:\Users\Александр\Documents\GitHub\CodeWarsTraining\HumanReadableTimeTests\obj\x64\Debug\netcoreapp3.1\HumanReadableTimeTests.pdb

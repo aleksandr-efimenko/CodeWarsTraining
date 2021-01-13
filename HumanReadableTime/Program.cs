@@ -10,6 +10,8 @@
 using System;
 using System.Linq;
 using System.Collections.Generic;
+using System.Text;
+
 namespace HumanReadableTime
 {
     class Program
@@ -46,6 +48,20 @@ namespace HumanReadableTime
             foreach (var b in num.ToString().ToList().OrderByDescending(x => x).ToList())
                 a += b;
             return long.Parse(a);
+        }
+    }
+
+
+    public static class Kata
+    {
+        public static string Performance(Func<int> method)
+        {
+            StringBuilder sb1 = new StringBuilder();
+            for (int i = 0; i < 150000; i++)
+            {
+                sb1.Append(method().ToString());
+            }
+            return sb1.ToString();
         }
     }
     //public static class TimeFormat

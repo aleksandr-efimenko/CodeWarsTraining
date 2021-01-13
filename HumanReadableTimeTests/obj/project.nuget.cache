@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/oVUB/HV5+vexdAayLKhKJzLVNiQTBmZTK3AGjxA47V+q0UDj1krRyAPbTZNZ4tlIRGSiDQ+z9FoC26x0146Pw==",
+  "dgSpecHash": "uj0H6RVpBcL6BSs5wdOfutJ47jXeCBGARMmUCdhzRKRSI1OtV1pEFhlFVOKScVkGJ0wZ71o4FGzeT6x6YoU3vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Александр\\Documents\\GitHub\\CodeWarsTraining\\HumanReadableTimeTests\\HumanReadableTimeTests.csproj",
+  "projectFilePath": "C:\\Users\\Админ\\Documents\\GitHub\\CodeWarsTraining\\HumanReadableTimeTests\\HumanReadableTimeTests.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Александр\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512"
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512"
   ],
   "logs": []
 }
